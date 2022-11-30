@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://luisantoniio1998.github.io
+https://luisantoniio1998.github.io/
 
 
 <!--
