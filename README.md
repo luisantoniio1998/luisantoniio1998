@@ -2,7 +2,7 @@
 
 https://luisantoniio1998.github.io/
 
--⚛️ I’m currently learning React Native and Expo
+- ⚛️ I’m currently learning React Native and Expo
 <!--
 **luisantoniio1998/luisantoniio1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
