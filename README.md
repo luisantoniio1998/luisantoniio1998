@@ -2,7 +2,7 @@
 
 https://luisantoniio1998.github.io/
 
-- 🔭 I’m currently working on React Native app using Expo 
+- 🔭 I’m currently working on a React Native app using Expo 
 - 🌱 I’m currently learning SQL for Data WareHouses, KNX Protocol for Intelligent Home Solutions, Haskell and BlockChain 
 
 <!--
