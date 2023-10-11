@@ -1,20 +1,24 @@
-### Hi there 👋
-
-https://luisantoniio1998.github.io/
-
-- 🔭 I’m currently working on a React Native app using Expo 
-
-<!--
-**luisantoniio1998/luisantoniio1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```#luisbarros {
+  position: Guarda ; 
+  display: Mobile-Application-Developer;
+  background: 'Freelance Mobile Application and Cybersecurity Enthusiast since 2020'; 
+  transition: 'Cybersecurity Intern --> React Native Developer';
+  education: {
+    degree: 'Bachelor\'s Degree in Computer Engineering from Institute Polytechnic of Guarda',
+    thesis: 'Intelligent network monitoring system',
+    certificates: [
+      '2D Platformer in Unity',
+      'Android Oreo developer Course',
+      'CCNAv7 Introduction to Networks',
+      'CCNAv7 Switching, Routing, and Wireless Essentials',
+      'CCNAv7 Enterprise Networking, Security, and Automation'
+    ],
+    languages: ['Portuguese (Native)', 'English (C1)', 'French (B1)']
+  }
+  skills: [
+    'Grafana', 'FortiGate', 'FortiSwitch', 'Kotlin', 'Zabbix', 'GLPi', 
+    'C', 'C++', 'Python', 'Java', 'NodeJS', 'React Native', 
+    'Photoshop', 'ASP.NET', 'PL/SQL'
+  ];
+  content: "From grapes to apps: a journey of continuous learning."; 
+}````
