@@ -21,4 +21,4 @@
     'Photoshop', 'ASP.NET', 'PL/SQL'
   ];
   content: "From grapes to apps: a journey of continuous learning."; 
-}````
+}
