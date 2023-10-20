@@ -3,7 +3,7 @@ const luisbarros = {
   position: "Guarda, Portugal",
   display: "Computer-Engineer",
   background: "Freelance Mobile Application and Cybersecurity Enthusiast since 2023",
-  transition: "Cybersecurity Intern --> React Native Developer",
+  transition: "Cybersecurity Intern and part-time React Native Developer",
   education: {
     degree: "Bachelor's Degree in Computer Engineering from Institute Polytechnic of Guarda",
     thesis: "Intelligent network monitoring system",
