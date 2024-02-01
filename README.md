@@ -5,9 +5,13 @@ const luisbarros = {
   background: "Freelance Mobile Application and Cybersecurity Enthusiast since 2023",
   transition: "Cybersecurity Intern and part-time React Native Developer",
   education: {
+    degree: "Post Grad on Cybersecurity at Universidade Europeia",
     degree: "Bachelor's Degree in Computer Engineering from Institute Polytechnic of Guarda",
     thesis: "Intelligent network monitoring system",
     certificates: [
+      "Fortinet Certified Associate Cybersecurity"
+      "Fortinet Certified Fundamentals Cybersecurity"
+      "Cybersecurity Foundations Specialization"
       "2D Platformer in Unity",
       "Android Oreo developer Course",
       "CCNAv7 Introduction to Networks",
