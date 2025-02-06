@@ -1,8 +1,9 @@
 # Luís Barros
 
-Support Engineer and React Native Developer based in Guarda, Portugal.
+Support Engineer and React Native Developer based Portugal.
 
-Specializing in infrastructure monitoring and mobile application development, with expertise in cybersecurity. Currently implementing monitoring solutions using Zabbix and Grafana while developing iOS applications with React Native.
+Specializing in infrastructure monitoring and mobile application development, with expertise in cybersecurity. 
+Currently implementing monitoring solutions using Zabbix and Grafana while developing iOS applications with React Native.
 
 ## Education
 - Postgraduate in Cybersecurity - Universidade Europeia (19/20)
