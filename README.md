@@ -8,7 +8,7 @@ Currently implementing monitoring solutions using Zabbix and Grafana while devel
 ## Education
 - Postgraduate in Cybersecurity - Universidade Europeia
 - Bachelor's in Computer Engineering - Polytechnic of Guarda
-  - Thesis: Intelligent Network Monitoring System
+  - Thesis: [Intelligent Network Monitoring System](https://luisantoniio1998.github.io/tese.pdf)
 
 ## Technologies
 - Infrastructure: Zabbix, Grafana, FortiGate, FortiSwitch, GLPi
