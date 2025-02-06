@@ -16,6 +16,6 @@ Specializing in infrastructure monitoring and mobile application development, wi
 - Tools: Git, Docker, VMWare
 
 ## Links
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin)](https://linkedin.com/in/luis-barros-)
-![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?&style=flat&logo=about.me)](https://luisantoniio1998.github.io)
-![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail)](mailto:luisantoniio1998@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/luis-barros-)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://luisantoniio1998.github.io)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:luisantoniio1998@gmail.com)
