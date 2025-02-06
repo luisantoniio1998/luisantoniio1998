@@ -1,5 +1,3 @@
-# Luís Barros
-
 Support Engineer and React Native Developer based Portugal.
 
 Specializing in infrastructure monitoring and mobile application development, with expertise in cybersecurity. 
