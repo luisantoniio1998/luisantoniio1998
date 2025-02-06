@@ -1,30 +1,21 @@
-```javascript
-const luisbarros = {
-  position: "Guarda, Portugal",
-  display: "Computer-Engineer",
-  background: "Freelance Mobile Application and Cybersecurity Enthusiast since 2023",
-  transition: "Support Engineer and part-time React Native Developer",
-  education: {
-    degree: "Post Grad on Cybersecurity at Universidade Europeia",
-    degree: "Bachelor's Degree in Computer Engineering from Institute Polytechnic of Guarda",
-    thesis: "Intelligent network monitoring system",
-    certificates: [
-      "Fortinet Certified Associate Cybersecurity"
-      "Fortinet Certified Fundamentals Cybersecurity"
-      "Cybersecurity Foundations Specialization"
-      "2D Platformer in Unity",
-      "Android Oreo developer Course",
-      "CCNAv7 Introduction to Networks",
-      "CCNAv7 Switching, Routing, and Wireless Essentials",
-      "CCNAv7 Enterprise Networking, Security, and Automation"
-    ],
-    languages: ["Portuguese (Native)", "English (C1)", "French (B1)"]
-  },
-  skills: [
-    "Grafana", "FortiGate", "FortiSwitch", "Kotlin", "Zabbix", "GLPi", 
-    "C", "C++", "Python", "Java", "NodeJS", "React Native", 
-    "Photoshop", "ASP.NET", "PL/SQL"
-  ],
-  content: "From grapes to apps: a journey of continuous learning."
-};
-```
+# Luís Barros
+
+Support Engineer and React Native Developer based in Guarda, Portugal.
+
+Specializing in infrastructure monitoring and mobile application development, with expertise in cybersecurity. Currently implementing monitoring solutions using Zabbix and Grafana while developing iOS applications with React Native.
+
+## Education
+- Postgraduate in Cybersecurity - Universidade Europeia (19/20)
+- Bachelor's in Computer Engineering - Polytechnic of Guarda
+  - Thesis: Intelligent Network Monitoring System
+
+## Technologies
+- Infrastructure: Zabbix, Grafana, FortiGate, FortiSwitch, GLPi
+- Development: React Native, JavaScript, Python, Java, NodeJS
+- Security: Network Monitoring, Cybersecurity Tools, FortiOS
+- Tools: Git, Docker, VMWare
+
+## Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-barros-)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://luisantoniio1998.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisantoniio1998@gmail.com)
