@@ -3,7 +3,7 @@ Specializing in infrastructure monitoring and mobile application development, wi
 Currently implementing monitoring solutions using Zabbix and Grafana while developing iOS applications with React Native.
 
 ## Education
-- Postgraduate in Cybersecurity - Universidade Europeia
+- Postgraduate in Cybersecurity - European University
 - Bachelor's in Computer Engineering - Polytechnic of Guarda
   - Thesis: [Intelligent Network Monitoring System](https://luisantoniio1998.github.io/tese.pdf)
 
