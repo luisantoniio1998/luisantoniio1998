@@ -10,10 +10,9 @@ Currently implementing monitoring solutions using Zabbix and Grafana while devel
   - Thesis: [Intelligent Network Monitoring System](https://luisantoniio1998.github.io/tese.pdf)
 
 ## Technologies
-- Infrastructure: Zabbix, Grafana, FortiGate, FortiSwitch, GLPi
+- Infrastructure: Zabbix, Grafana, FortiGate, FortiSwitch, GLPi, VMWare, Docker 
 - Development: React Native, JavaScript, Python, Java, NodeJS/Express, NextJS, MongoDB
-- Security: Network Monitoring, Cybersecurity Tools, FortiOS
-- Tools: Git, Docker, VMWare
+- Tools: Git 
 
 ## Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/-luis-barros-/)
