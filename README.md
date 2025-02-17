@@ -11,7 +11,7 @@ Currently implementing monitoring solutions using Zabbix and Grafana while devel
 
 ## Technologies
 - Infrastructure: Zabbix, Grafana, FortiGate, FortiSwitch, GLPi
-- Development: React Native, JavaScript, Python, Java, NodeJS
+- Development: React Native, JavaScript, Python, Java, NodeJS/Express, NextJS, MongoDB
 - Security: Network Monitoring, Cybersecurity Tools, FortiOS
 - Tools: Git, Docker, VMWare
 
