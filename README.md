@@ -9,7 +9,9 @@ I thrive in environments that combine backend logic, system security, and respon
 ## 🎓 Education
 
 Postgraduate in Cybersecurity – European University
+
 Bachelor's in Computer Engineering – Polytechnic of Guarda
+  
   - Thesis: [Intelligent Network Monitoring System](https://luisantoniio1998.github.io/tese.pdf)
 
 ## 🛠 Technologies
