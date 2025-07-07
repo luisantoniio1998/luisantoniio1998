@@ -1,4 +1,4 @@
-##🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 Full-stack developer with a strong foundation in infrastructure monitoring, DevOps, and mobile and web application development. I design and deploy full-featured systems using the MERN stack, with production deployments hosted on AWS EC2, using NGINX as a reverse proxy, SSL encryption, and PM2 for process management.
 
@@ -6,13 +6,13 @@ Currently working as a Support Engineer implementing monitoring and analytics so
 
 I thrive in environments that combine backend logic, system security, and responsive front-end experiences.
 
-##🎓 Education
+## 🎓 Education
 
 Postgraduate in Cybersecurity – European University
 Bachelor's in Computer Engineering – Polytechnic of Guarda
   - Thesis: [Intelligent Network Monitoring System](https://luisantoniio1998.github.io/tese.pdf)
 
-##🛠 Technologies
+## 🛠 Technologies
 
 Infrastructure & Monitoring: Zabbix, Grafana, FortiGate, FortiSwitch, GLPi, VMWare, Linux
 Full-stack Development: React, React Native, JavaScript, TypeScript, Next.js, Node.js, Express, MongoDB
