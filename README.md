@@ -15,11 +15,14 @@ Bachelor's in Computer Engineering – Polytechnic of Guarda
 ## 🛠 Technologies
 
 Infrastructure & Monitoring: Zabbix, Grafana, FortiGate, FortiSwitch, GLPi, VMWare, Linux
+
 Full-stack Development: React, React Native, JavaScript, TypeScript, Next.js, Node.js, Express, MongoDB
+
 Deployment & DevOps: Docker, AWS EC2, NGINX (reverse proxy + SSL), PM2, Git, CI/CD (GitHub/GitLab), Bash scripting
+
 AI & Data: Python, TensorFlow, KMeans
 
-## Links
+## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/-luis-barros-/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat)](https://luisantoniio1998.github.io)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat)](mailto:luisantoniio1998@gmail.com)
