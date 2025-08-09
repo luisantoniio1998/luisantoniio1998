@@ -1,6 +1,6 @@
 ## 🧑‍💻 About Me
 
-Full-stack developer with a strong foundation in infrastructure monitoring, DevOps, and mobile and web application development. I design and deploy full-featured systems using the MERN stack, with production deployments hosted on AWS EC2, using NGINX as a reverse proxy, SSL encryption, and PM2 for process management.
+Full-stack Software Engineer with a strong foundation in infrastructure monitoring, DevOps, and mobile and web application development. I design and deploy full-featured systems using the MERN stack, with production deployments hosted on AWS EC2, using NGINX as a reverse proxy, SSL encryption, and PM2 for process management.
 
 Currently working as a Support Engineer implementing monitoring and analytics solutions with Zabbix and Grafana, while also building and maintaining iOS apps with React Native, and a web-based service management platform tailored for small businesses.
 
