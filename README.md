@@ -1,15 +1,24 @@
-# Luís Barros
-Full-Stack Software Engineer 
+# Hey! I'm Luís
+
+Full-Stack Developer building web and mobile solutions
 
 ## Tech Stack
-**Frontend:** React, Next.js, TypeScript, React Native  
-**Backend:** Node.js, Express, MongoDB, Python  
-**Infrastructure:** AWS, Docker, NGINX, Linux
-**Others:** Grafana, Zabbix, Fortinet
+**Frontend:** React, Next.js, TypeScript, Tailwind  
+**Backend:** Node.js, Express, MongoDB  
+**Mobile:** React Native  
+**DevOps:** AWS, Docker, NGINX, Linux  
+**Security:** Zabbix, Grafana, SSL, Network monitoring
 
-## Education
-**Postgraduate in Cybersecurity** – European University  
-**Bachelor's in Computer Engineering** – Polytechnic of Guarda
+## What I do
+- Build and ship mobile apps to App/Play Store
+- Deploy production systems on AWS
+- Create booking platforms and business automation
+- Monitor infrastructure with Zabbix/Grafana
 
-[Portfolio](https://luisdbarros.dev) • [LinkedIn](https://www.linkedin.com/in/-luis-barros-/) • [Email](mailto:luisantoniio1998@gmail.com)
+## Location
+Portugal → Switzerland (relocating soon)
 
+---
+**Let's build something together** → [luisantoniio1998@gmail.com](mailto:luisantoniio1998@gmail.com)
+
+[Portfolio](https://luisdbarros.dev) • [LinkedIn](https://www.linkedin.com/in/-luis-barros-/)
