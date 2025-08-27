@@ -1,12 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Luís%20Barros&fontSize=90)
-
-## Current Focus
-Building production-ready applications with the MERN stack, implementing monitoring solutions with Zabbix/Grafana, and developing mobile apps with React Native.
+#Luís Barros
+Full-Stack Software Engineer 
 
 ## Tech Stack
 **Frontend:** React, Next.js, TypeScript, React Native  
 **Backend:** Node.js, Express, MongoDB, Python  
-**Infrastructure:** AWS, Docker, NGINX, Linux, Zabbix  
+**Infrastructure:** AWS, Docker, NGINX, Linux
+**Others:** Grafana, Zabbix, Fortinet
 
 ## Education
 **Postgraduate in Cybersecurity** – European University  
