@@ -1,6 +1,6 @@
 # Luís Barros
 
-Full-stack Software Engineer specializing in React, Node.js, and cloud infrastructure.
+![header](https://capsule-render.vercel.app/api?type=slice)
 
 ## Current Focus
 Building production-ready applications with the MERN stack, implementing monitoring solutions with Zabbix/Grafana, and developing mobile apps with React Native.
