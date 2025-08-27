@@ -14,4 +14,4 @@ Building production-ready applications with the MERN stack, implementing monitor
 **Postgraduate in Cybersecurity** – European University  
 **Bachelor's in Computer Engineering** – Polytechnic of Guarda
 
-[Portfolio](https://luisantoniio1998.github.io) • [LinkedIn](https://www.linkedin.com/in/-luis-barros-/) • [Email](mailto:luisantoniio1998@gmail.com)
+[Portfolio](https://luisdbarros.dev) • [LinkedIn](https://www.linkedin.com/in/-luis-barros-/) • [Email](mailto:luisantoniio1998@gmail.com)
