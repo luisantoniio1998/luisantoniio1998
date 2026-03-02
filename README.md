@@ -1,1 +1,1 @@
-<img width="1792" height="1126" alt="github-wrapped-luisantoniio1998-2025" src="https://github.com/user-attachments/assets/e2beb8a6-03e7-43f9-8d0b-7771bff62463" />
+<img width="1792" height="1126" alt="github-wrapped-luisantoniio1998-2025" src="https://github.com/user-attachments/assets/8c1b12f6-a78b-44ee-937f-1019cb4d10fd" />
