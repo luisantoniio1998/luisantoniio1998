@@ -1,7 +1,10 @@
-<div align="center">
+# Olá, I’m Luís
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white)](https://luisantoniio1998.github.io/)
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/1541841)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/lb.)
+I’m a Security Engineer in Portugal. Most of my work is around SIEM integrations, documentation, and maintaining and upgrading the supporting architecture.
 
-</div>
+Here I keep my security labs, course projects, and older university work. I’m currently practising on pwn.college and Hack The Box.
+
+- [My website and writeups](https://luisantoniio1998.github.io/)
+- [Hack The Box](https://profile.hackthebox.com/profile/019c3260-837c-701e-8430-ed2712df52a7)
+- [pwn.college](https://pwn.college/)
+- [LinkedIn](https://www.linkedin.com/in/-luis-barros-/)
