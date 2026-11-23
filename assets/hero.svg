@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
+<title id="title">okami403 — Luís Barros</title>
+<desc id="desc">Security Engineer in Portugal. SIEM integrations, documentation, and architecture. Practising on Hack The Box and pwn.college.</desc>
+<defs>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#24352e" stroke-width=".6"/></pattern>
+ <linearGradient id="shade"><stop stop-color="#101915"/><stop offset="1" stop-color="#0b1013"/></linearGradient>
+</defs>
+<style>
+ text{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace}
+ .muted{fill:#91a49b;font-size:12px;letter-spacing:1px}
+ .body{fill:#dce6df;font-size:15px}
+ .cursor{animation:blink 1.2s steps(1) infinite}
+ .pulse{animation:pulse 3s ease-in-out infinite}
+ @keyframes blink{50%{opacity:0}}
+ @keyframes pulse{50%{opacity:.35}}
+ @media(prefers-reduced-motion:reduce){.cursor,.pulse{animation:none}}
+</style>
+<rect x="1" y="1" width="958" height="338" rx="14" fill="url(#shade)" stroke="#34443c"/>
+<rect x="1" y="1" width="958" height="338" rx="14" fill="url(#grid)" opacity=".5"/>
+<path d="M1 42H959" stroke="#34443c"/>
+<circle cx="24" cy="22" r="4" fill="#779783"/><circle cx="40" cy="22" r="4" fill="#42574b"/><circle cx="56" cy="22" r="4" fill="#42574b"/>
+<text x="80" y="26" class="muted">okami403 / profile</text>
+<text x="926" y="26" text-anchor="end" class="muted">PT</text>
+<text x="36" y="82" fill="#a7d9ae" font-size="13">$ whoami</text>
+<text x="32" y="153" fill="#edf5ee" font-size="66" font-weight="700" letter-spacing="-3">okami403</text>
+<rect class="cursor" x="358" y="105" width="12" height="51" fill="#a7d9ae"/>
+<text x="36" y="185" fill="#a7d9ae" font-size="14" letter-spacing="2">LUÍS BARROS / SECURITY ENGINEER</text>
+<path d="M36 211H924" stroke="#34443c"/>
+<text x="36" y="241" class="muted">WORK</text>
+<text x="36" y="268" class="body">SIEM integrations</text>
+<text x="36" y="292" class="body">Documentation &amp; architecture</text>
+<text x="464" y="241" class="muted">PRACTICE</text>
+<text x="464" y="268" class="body">Hack The Box</text>
+<text x="464" y="292" class="body">pwn.college</text>
+<circle class="pulse" cx="903" cy="264" r="5" fill="#a7d9ae"/>
+<text x="924" y="321" text-anchor="end" fill="#91a49b" font-size="11">luisantoniio1998.github.io</text>
+</svg>
